@@ -5,7 +5,12 @@ treatment of estrogen receptor-positive breast cancer patients.
 
 The following folders are included in this repository:
 
-folder1: This folder contains the code for module 1.
-folder2: This folder contains the code for module 2.
-folder3: This folder contains the code for module 3.
+PD_model_nonDOXcells: This folder contains the code for module 1.
+
+PD_model_DOXcells: This folder contains the code for module 2.
+
+PD_model_Palbociclib_resistance: This folder contains the code for module 3.
+
+PD_model_Palbociclib_resistance: This folder contains the code for module 3.
+
 Each folder contains the necessary code to run its corresponding module in the project. 
